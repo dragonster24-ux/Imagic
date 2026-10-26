@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://imagic-ee8.pages.dev/sitemap.xml
